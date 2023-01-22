@@ -1,0 +1,40 @@
+form{
+    border:1px solid black;
+    width:45%;
+  
+   padding: 20px;
+    margin:20px auto;
+   }
+   .form-inner{
+    width:100%;
+    margin: 0px 20%;
+   }
+   #file{
+    display:block;
+    border:1px solid black;
+    
+   }
+  .btn{
+   
+   margin:5px 20%;
+   padding: 10px 20px;
+
+   }
+   .input1 input{
+    width:400px!important;
+    height:20px;
+    margin-bottom: 10px;
+   }
+
+  
+   .input2 input{
+    width:197px;
+    height:25px;
+    margin-bottom: 10px;
+   
+   }
+   .input3 input{
+    width:400px;
+    height:25px;
+    margin-bottom: 10px;
+   }

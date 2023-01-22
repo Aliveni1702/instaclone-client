@@ -1,0 +1,71 @@
+.main-header{
+    height: 10vh;   
+    padding-top:2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-bottom: 1px solid   rgb(228, 64, 95);
+    position: relative;
+   }
+   .first_line{
+       margin-left: 10px;
+   }
+   .second_line{
+       margin-left: 10px;
+   }
+   .tag{
+       color: rgba(47, 174, 0, 0.642);
+       font-size: 2em;
+       position: absolute;
+       z-index: 1;
+       margin-left: 5px;
+       margin-top: -2px;
+   }
+   .post{
+       
+       width:40%;
+       margin: 25px auto;
+       border: 1px solid gainsboro;
+       border-radius: 3%;
+       padding: 1% 0;
+   }
+   .dots{
+       float:right;
+       margin-right: 10px;
+   
+   
+   }
+   .more_icon{
+       margin-top:3px;
+   }
+   .likes{
+       font-size:20px; 
+       padding: 3px 5px;
+       margin-bottom: 4px;
+   }
+   .desc{
+       font-size:22px; 
+       padding: 3px 2px;
+       font-weight: bold;
+   }
+   .first_line .name{
+      font-size:20px;
+      font-weight: bold;
+   }
+   .location{
+       font-size:18px ;
+       padding:3px 0px;
+       margin-bottom: 3px;
+   }
+   .heart_icon{
+       margin-left: 0.5%;
+   }
+   .date{
+       float:right;
+       margin-right: 10px;
+   }
+   .desc{
+       margin-left: 0.5%;
+   }
+   .footer{
+       margin-top: 10px;
+   }
