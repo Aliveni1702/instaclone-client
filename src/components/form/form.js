@@ -1,14 +1,9 @@
 import {React,useState} from 'react';
 import {useNavigate } from "react-router-dom";
-//import cloudinary from 'cloudinary';
 import './form.css';
 import axios from "axios";
 import Navbar from '../nav';
-// cloudinary.config({
-//     cloud_name: 'drbri3zi3',
-//     api_key: '173859116656276',
-//     api_secret: 'S4Hk57zUqdi44UaWepzY9mOBKTA'
-//   });
+
 
 const Form =()=>{
     const postdate= new Date();
